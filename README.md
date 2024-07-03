@@ -13,7 +13,6 @@ Repository-Service Pattern <br />
 Repository Design Pattern = One repository per entity + Generic repository<br />
 UnitOfWork pattern <br />
 Entity Framework Core<br />
-Async Web Api <br />
 NewtonsoftJson<br />
 Serilog<br />
 AutoMapper<br />
